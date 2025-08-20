@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "أداة تحليل إبداعية",
+  "version": "1.0",
+  "description": "إضافة تجريبية لتحليل إبداعي (نسخة عربية).",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
